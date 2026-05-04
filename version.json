@@ -1,7 +1,7 @@
 {
     "version": "1.1.41",
-    "download_url": "https://github.com/dhnntnh1-pixel/cdnx9k2m4n811x/releases/download/v1.1.41/TG.-.BM.Manager.v.1.1.exe",
-  "changelog": "- Thêm tính năng get link qua app ở BM Manager\n - BM Manager thêm chức năng nhận bm vượt code\n - Tool chính thêm tính năng lách code cho share nhận bm",
+    "download_url": "https://github.com/dhnntnh1-pixel/cdnx9k2m4n811x/releases/download/v1.1.42/TG.-.BM.Manager.v.1.1.exe",
+  "changelog": "- Thêm tính năng thêm thẻ tài khoản\n - Thêm chức năng Active tài khoản nợ\n - Thêm chức năng Xóa Thẻ\n Thêm chức năng xóa camp\n - Thêm chức năng mở tài khoản đóng",
     "required": false,
     "min_version": "1.0.0"
 }
